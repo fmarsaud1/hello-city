@@ -6,7 +6,7 @@ dev:
           go build ./...
           ./source
         reload: true
-# Build definition
+# Build definition test 1
 build:
   # The steps that will be executed on build
   steps:
